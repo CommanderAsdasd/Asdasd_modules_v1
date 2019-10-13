@@ -1,0 +1,23 @@
+{
+    "slug": "asdasd_modules",
+    "name": "asdasd_modules",
+    "version": "1.0.0",
+    "license": "AGPL-3.0-or-later",
+    "brand": "asdasd_modules",
+    "author": "Asdasd",
+    "authorEmail": "e1ectricwiz4rd@gmail.com",
+    "authorUrl": "",
+    "pluginUrl": "",
+    "manualUrl": "",
+    "sourceUrl": "",
+    "donateUrl": "",
+    "modules": [{
+        "slug": "auto_8vert",
+        "name": "auto_8vert",
+        "description": "",
+        "tags": [
+            "Attenuator",
+            "Poly"
+        ]
+    }]
+}

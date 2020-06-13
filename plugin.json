@@ -11,13 +11,24 @@
     "manualUrl": "",
     "sourceUrl": "",
     "donateUrl": "",
-    "modules": [{
-        "slug": "Auto_8vert",
-        "name": "Auto_8vert",
-        "description": "",
-        "tags": [
-            "Attenuator",
-            "Poly"
-        ]
-    }]
+    "modules": [
+        {
+            "slug": "auto_8vert",
+            "name": "Auto_8vert",
+            "description": "",
+            "tags": [
+                "Attenuator",
+                "Poly"
+            ]
+        },
+        {
+            "slug": "eurogen",
+            "name": "Eurogen",
+            "description": "",
+            "tags": [
+                "Attenuator",
+                "Poly"
+            ]
+        }
+    ]
 }

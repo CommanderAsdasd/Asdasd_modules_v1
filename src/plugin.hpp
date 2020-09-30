@@ -10,6 +10,7 @@ extern Plugin *pluginInstance;
 // extern Model *modelMyModule;
 extern Model *modelAuto_8vert;
 extern Model *modelEurogen;
+extern Model *CVMap;
 
 struct LilKnob : RoundBlackKnob {
 	LilKnob() {

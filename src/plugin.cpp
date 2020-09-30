@@ -9,7 +9,8 @@ void init(Plugin *p) {
 
 	// Add modules here
 	p->addModel(modelAuto_8vert);
-	p->addModel(modelEurogen);
+	// p->addModel(modelEurogen);
+	// p->addModel(modelCVMap);
 
 
 	// Any other plugin initialization may go here.

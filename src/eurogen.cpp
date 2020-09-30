@@ -1,26 +1,8 @@
-#include "plugin.hpp"
+// #include "plugin.hpp"
+// #include "MapModuleBase.hpp"
+// #include <chrono>
 
-struct Eurogen : Module {
-    enum ParamIds {
-    };
-    enum OutputIds {
-    };
+// namespace CVMap {
+// }
 
-    Eurogen() {
-        // config()
-    }
-
-    void process(const ProcessArgs &args) override {
-
-    }
-};
-
-struct EurogenWidget : ModuleWidget {
-    EurogenWidget(Eurogen * module) {
-        setModule(module);
-        setPanel(APP->window->loadSvg(asset::plugin(pluginInstance, "res/asdasd_notes.svg")));
-    }
-
-};
-
-Model* modelEurogen = createModel<Eurogen, EurogenWidget>("eurogen");
+// Model* modelCVMap = createModel<CVMap::CVMapModule, CVMap::CVMapWidget>("CVMap");

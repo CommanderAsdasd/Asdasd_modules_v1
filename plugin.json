@@ -20,15 +20,6 @@
                 "Attenuator",
                 "Poly"
             ]
-        },
-        {
-            "slug": "eurogen",
-            "name": "Eurogen",
-            "description": "",
-            "tags": [
-                "Attenuator",
-                "Poly"
-            ]
         }
     ]
 }

@@ -91,7 +91,7 @@ struct Auto_8vert : Module {
 struct Auto_8vertWidget : ModuleWidget {
 	Auto_8vertWidget(Auto_8vert *module) {
 		setModule(module);
-		setPanel(APP->window->loadSvg(asset::plugin(pluginInstance, "res/8vert.svg")));
+		setPanel(APP->window->loadSvg(asset::plugin(pluginInstance, "res/auto_8vert.svg")));
 
 		addChild(createWidget<ScrewSilver>(Vec(15, 0)));
 		addChild(createWidget<ScrewSilver>(Vec(box.size.x - 30, 0)));

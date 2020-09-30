@@ -20,6 +20,13 @@
                 "Attenuator",
                 "Poly"
             ]
-        }
+        },
+        {
+			"slug": "CVMap",
+			"name": "CV-MAP",
+			"description": "Add CV automation to 32 parameters of any module",
+			"tags": ["Utility", "Polyphonic", "Controller"],
+			"manualUrl": "https://github.com/stoermelder/vcvrack-packone/blob/v1/docs/CVMap.md"
+		}
     ]
 }
